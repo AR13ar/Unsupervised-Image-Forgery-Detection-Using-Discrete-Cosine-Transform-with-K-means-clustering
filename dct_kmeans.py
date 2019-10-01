@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 30 04:51:21 2019
-
-@author: Aditya Raj
-"""
 import numpy as np
 from scipy.fftpack import dct
 from sklearn.cluster import KMeans
