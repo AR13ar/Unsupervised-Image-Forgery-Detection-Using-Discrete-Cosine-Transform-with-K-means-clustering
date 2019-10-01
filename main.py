@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
 import cv2          
 from matplotlib import pyplot as plt  
 import numpy as np   
