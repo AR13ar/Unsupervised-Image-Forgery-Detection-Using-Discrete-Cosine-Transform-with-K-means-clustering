@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 30 04:55:15 2019
-
-@author: Aditya Raj
-"""
 import numpy as np
 
 def lab_sort(arr, aa):
