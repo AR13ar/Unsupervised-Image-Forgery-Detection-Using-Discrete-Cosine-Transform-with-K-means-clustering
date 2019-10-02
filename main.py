@@ -91,7 +91,7 @@ ll_con_cat_1 = lab_sort(ll_con_cat, aa)
 ll_con_cat_11 = f_sort(ll_con_cat_1, aa)
 
 #correlation part
-#pearsonr is used to find the correlation (same formula as in paper)
+#pearsonr is used to find the correlation
 corr = ll_con_cat_11[:,1:-2]
 
 #finding the correlation between ith row and (i+1)th row & storing in pear
